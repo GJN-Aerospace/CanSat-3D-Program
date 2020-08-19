@@ -1,2 +1,2 @@
 # CanSat-3D-Program
-Program for 3D visualisation of GNSS data
+Program for 3D visualisation of GNSS data. The source file is in "/Assets/Resources/baseStation_SD".There is a CSV file which contains CanSat probe data in columns: ;PKII;MessageID;Teplota;Tlak;Vlhkost;Výška(BME280);U-Shunt;U-Bus;Proud;U-Load;RSSI;Zem. šířka(Lat.);Zem.délka(Lon.);Souřadnice;Rok;Měsíc;Den;Čas;Hodiny;Minuty;Sekundy;SIV;Výška(GPS);TeplotaW;TlakW;VlhkostW;VýškaW(BME280);Teplota Stanice;Tlak Stanice;Vlhkost Stanice;Výška Stanice(BME280)
